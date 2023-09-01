@@ -129,7 +129,7 @@ def main():
   (8) GT-I2809
   (9) vivo 2027
   (10) vivo X259L
-  
+ 
   (?) Select > """
   x=int(input(menu))
   clr()
